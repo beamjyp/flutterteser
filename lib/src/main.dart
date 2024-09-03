@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'features/articles/presentation/courseregistrationpage_tesser.dart';
+import 'features/articles/presentation/courseregistrationpage_teser.dart';
 import 'features/articles/presentation/dashboardpage_tesser.dart';
-import 'features/articles/presentation/loginpage_tesser.dart';
-import 'features/articles/presentation/profilepage_tesser.dart';
-import 'features/articles/presentation/notificationspage_tesser.dart';
-import 'features/articles/presentation/settingspage.dart';
+import 'features/articles/presentation/loginpage_teser.dart';
+import 'features/articles/presentation/profilepage_teser.dart';
+import 'features/articles/presentation/notificationspage_teser.dart';
+import 'features/articles/presentation/settingspage_teser.dart';
 import 'features/articles/presentation/transcriptpage_tesser.dart';
 import 'package:google_fonts/google_fonts.dart';
 void main() {
