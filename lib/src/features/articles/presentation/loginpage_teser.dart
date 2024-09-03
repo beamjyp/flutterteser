@@ -74,7 +74,8 @@ class LoginPage extends StatelessWidget {
                             String email = emailController.text;
                             String password = passwordController.text;
 
-                            if (email == 'abc@gmail.com' && password == '123') {
+                            // if (email == 'abc@gmail.com' && password == '123') {
+                            if (email == email && password == password) {
                               Navigator.pushReplacement(
                                 context,
                                 MaterialPageRoute(

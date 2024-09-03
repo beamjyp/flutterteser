@@ -2,6 +2,7 @@ import 'package:carousel_slider/carousel_options.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_teser/src/features/articles/presentation/courseregistrationpage_teser.dart';
+import 'package:flutter_teser/src/features/articles/presentation/loginpage_teser.dart';
 import 'package:flutter_teser/src/features/articles/presentation/profilepage_teser.dart';
 import 'package:flutter_teser/src/features/articles/presentation/settingspage_teser.dart';
 
@@ -85,6 +86,18 @@ class DashboardPage extends StatelessWidget {
                         MaterialPageRoute(
                           builder: (context) => SettingsPage(),
                         ),
+                      );
+                    },
+                  ),
+                  DashboardCard(
+                    icon: Icons.settings,
+                    title: 'Logout',
+                    onTap: () {
+                      Navigator.pushAndRemoveUntil(
+                        context,
+                        MaterialPageRoute(builder: (context) => LoginPage()),
+                        (route) =>
+                            false, // This will remove all the previous routes
                       );
                     },
                   ),
