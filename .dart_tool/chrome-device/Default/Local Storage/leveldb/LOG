@@ -1,24 +1,9 @@
-2024/09/02-15:53:42.586 4ab0 Reusing MANIFEST C:\Users\bcca_\AppData\Local\Temp\flutter_tools.20beb71\flutter_tools_chrome_device.409472fa\Default\Local Storage\leveldb/MANIFEST-000001
-2024/09/02-15:53:42.590 4ab0 Recovering log #18
-2024/09/02-15:53:42.592 4ab0 Reusing old log C:\Users\bcca_\AppData\Local\Temp\flutter_tools.20beb71\flutter_tools_chrome_device.409472fa\Default\Local Storage\leveldb/000018.log 
-2024/09/02-15:53:42.592 4ab0 Delete type=0 #3
-2024/09/02-15:53:42.592 4ab0 Delete type=0 #6
-2024/09/02-15:53:42.592 4ab0 Delete type=2 #7
-2024/09/02-15:55:17.611 57fc Level-0 table #22: started
-2024/09/02-15:55:17.616 57fc Level-0 table #22: 48875 bytes OK
-2024/09/02-15:55:17.619 57fc Delete type=0 #18
-2024/09/02-15:55:24.646 57fc Level-0 table #24: started
-2024/09/02-15:55:24.653 57fc Level-0 table #24: 72779 bytes OK
-2024/09/02-15:55:24.656 57fc Delete type=0 #21
-2024/09/02-15:58:30.785 4ab0 Level-0 table #26: started
-2024/09/02-15:58:30.790 4ab0 Level-0 table #26: 94676 bytes OK
-2024/09/02-15:58:30.792 4ab0 Delete type=0 #23
-2024/09/02-15:58:30.792 4ab0 Compacting 4@0 + 1@1 files
-2024/09/02-15:58:30.798 4ab0 Generated table #27@0: 36 keys, 144553 bytes
-2024/09/02-15:58:30.798 4ab0 Compacted 4@0 + 1@1 files => 144553 bytes
-2024/09/02-15:58:30.799 4ab0 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/09/02-15:58:30.801 4ab0 Delete type=2 #17
-2024/09/02-15:58:30.801 4ab0 Delete type=2 #19
-2024/09/02-15:58:30.801 4ab0 Delete type=2 #22
-2024/09/02-15:58:30.801 4ab0 Delete type=2 #24
-2024/09/02-15:58:30.801 4ab0 Delete type=2 #26
+2024/09/03-09:11:35.549 908 Reusing MANIFEST C:\Users\bcca_\AppData\Local\Temp\flutter_tools.9bbc2163\flutter_tools_chrome_device.830b5385\Default\Local Storage\leveldb/MANIFEST-000001
+2024/09/03-09:11:35.554 908 Recovering log #25
+2024/09/03-09:11:35.555 908 Reusing old log C:\Users\bcca_\AppData\Local\Temp\flutter_tools.9bbc2163\flutter_tools_chrome_device.830b5385\Default\Local Storage\leveldb/000025.log 
+2024/09/03-09:11:35.556 908 Delete type=0 #3
+2024/09/03-09:11:35.556 908 Delete type=0 #6
+2024/09/03-09:11:35.556 908 Delete type=2 #7
+2024/09/03-09:11:35.556 908 Delete type=2 #17
+2024/09/03-09:11:35.556 908 Delete type=0 #18
+2024/09/03-09:11:35.556 908 Delete type=2 #19
