@@ -6,7 +6,7 @@ import 'features/articles/presentation/profilepage_tesser.dart';
 import 'features/articles/presentation/notificationspage_tesser.dart';
 import 'features/articles/presentation/settingspage.dart';
 import 'features/articles/presentation/transcriptpage_tesser.dart';
-
+import 'package:google_fonts/google_fonts.dart';
 void main() {
   runApp(MyApp());
 }
@@ -17,7 +17,9 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'University Registration System',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.indigo,
+        textTheme: GoogleFonts.latoTextTheme(Theme.of(context).textTheme),
+        visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: LoginPage(),
       routes: {

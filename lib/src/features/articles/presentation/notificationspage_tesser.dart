@@ -6,6 +6,7 @@ class NotificationsPage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text('Notifications'),
+        backgroundColor: Colors.indigo,
       ),
       body: Center(
         child: Text('Notifications will be displayed here'),

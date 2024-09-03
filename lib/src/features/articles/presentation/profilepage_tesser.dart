@@ -6,6 +6,7 @@ class ProfilePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text('Profile'),
+        backgroundColor: Colors.indigo,
       ),
       body: Center(
         child: Text('Profile Information will be displayed here'),
