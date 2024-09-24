@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'University Registration System',
+      title: 'University Registration System develop',
       theme: ThemeData(
         primarySwatch: Colors.indigo,
         textTheme: GoogleFonts.latoTextTheme(Theme.of(context).textTheme),
